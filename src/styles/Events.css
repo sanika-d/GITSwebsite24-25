@@ -1,0 +1,29 @@
+.events {
+  position: absolute;
+  font-family: Baron;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 4.2rem;
+  text-align: center;
+  color: #63ff73;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+
+@media (min-width: 640px) and (max-width: 1024px) {
+  .events {
+    font-size: 3.5rem;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 640px) {
+  .events {
+    font-size: 2.8rem;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 500px) {
+  .events {
+    font-size: 2.3rem;
+  }
+}

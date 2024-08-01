@@ -1,0 +1,141 @@
+.App {
+  margin: 3%;
+  padding: 3%;
+  padding-top: 5px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 10vh;
+  font-size: large;
+  /* Added text alignment */
+  border-radius: 10px; /* Added border-radius */
+  /* Added border */
+  /* background-color: #f9f9f9a0;  */
+  box-shadow: 0px 0px 10px rgba(1, 1, 1, 1);
+}
+/* Styles for the registration form title */
+.title {
+  text-align: center;
+  font-size: 24px; /* Increased font size */
+  font-weight: bold; /* Added font weight */
+  margin-bottom: 20px; /* Added margin bottom for spacing */
+}
+
+.form-label {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  font-weight: bold;
+}
+
+
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  /* background-color: #f9f9f9d7; Changed background color */
+  background-clip: padding-box;
+  border: 1px solid #00ffff;
+  color: #00ffff;
+  border-radius: 5px;
+  background-color: transparent;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-select {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  -moz-padding-start: calc(0.75rem - 3px);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #f9f9f9;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 16px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.submitbtn {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.submitbtn button {
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submitbtn button:hover {
+  background-color: #45a049;
+}
+
+.internalbtn button {
+  padding: 5px 10px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.internalbtn button:hover {
+  background-color: #d32f2f;
+}
+
+.internalbtn2 button {
+  padding: 5px 10px;
+  background-color: #45a049;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.internalbtn2 button:hover {
+  background-color: #45a049;
+}
+
+@media (max-width: 767px) {
+  .App {
+    padding: 3% 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .App {
+    padding: 3% 10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .form-control {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .submit-btn button {
+    padding: 10px 16px;
+  }
+}
