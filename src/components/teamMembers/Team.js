@@ -15,8 +15,8 @@ Pranit: {
   Image: "/assets/",
   Role: "President",
   Name: "Pranit Kamble",
-  Email: "pranitkamble312@gmail.com"
-  //Linkedin: ""
+  Email: "pranitkamble312@gmail.com",
+  Linkedin: ""
   },
 
 Aditi: {
@@ -63,8 +63,8 @@ Shrushti: {
   Image: "/assets/",
   Role: "Lady Representative",
   Name: "Shrushti Ambre",
-  Email: "shrushtiambre788@gmail.com"
-  //Linkedin: " "
+  Email: "shrushtiambre788@gmail.com",
+  Linkedin: " "
 },
 
 Sujay: {
@@ -136,7 +136,7 @@ Sumit: {
   Role: "Sports Head",
   Name: "Sumit Lodh",
   Email: "lodh.sumit2805@gmail.com ",  
-  //Linkedin: ""  
+  Linkedin: ""  
 },
 
 Durgesh: {
