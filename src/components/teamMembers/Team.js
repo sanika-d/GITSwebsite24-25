@@ -4,7 +4,7 @@ import TeamMembers from "./TeamMembers";
 const obj1 = {
 
 Rohit: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/ROHIT1.jpg",
   Role: "General Secretary",
   Name: "Rohit Ambre",
   Email: "rohitambre67@gmail.com",
@@ -12,7 +12,7 @@ Rohit: {
 },
 
 Pranit: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/pranit1.jpg",  
   Role: "President",
   Name: "Pranit Kamble",
   Email: "pranitkamble312@gmail.com",
@@ -20,7 +20,7 @@ Pranit: {
   },
 
 Aditi: {
-  Image: "/assets/",  
+  Image: "/assets/allmembers24/aditi1.jpg",  
   Role: "Co-General Secretary",
   Name: "Aditi Kadam",
   Email: "aditikadam3636@gmail.com",
@@ -28,7 +28,7 @@ Aditi: {
 },
 
 Aniket: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/aniket1.jpg",
   Role: "Convenor",
   Name: "Aniket Chavan",
   Email: "ac18052004@gmail.com",
@@ -36,7 +36,7 @@ Aniket: {
 },
 
 Arya: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Arya1.jpg",
   Role: "Co-Convenor",
   Name: "Arya Dhuri",
   Email: " aryadhuri2004@gmail.com ",
@@ -44,7 +44,7 @@ Arya: {
 },
 
 Aman: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/aman1.jpg",
   Role: "Treasurer",
   Name: "Aman Jain ",
   Email: "aman.p.jain19@gmail.com ",
@@ -52,7 +52,7 @@ Aman: {
 },
 
 Rishee: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Rishee1.jpg",
   Role: "Treasurer",
   Name: "Rishee Bauskar ",
   Email: "rishee.bauskar@gmail.com",
@@ -60,7 +60,7 @@ Rishee: {
 },
 
 Shrushti: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/shrushti11.jpg",
   Role: "Lady Representative",
   Name: "Shrushti Ambre",
   Email: "shrushtiambre788@gmail.com",
@@ -68,7 +68,7 @@ Shrushti: {
 },
 
 Sujay: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Suja1y.jpg",
   Role: "Documentation Head",
   Name: "Sujay Kangane",
   Email: "sujaykangane0@gmail.com ",  
@@ -76,7 +76,7 @@ Sujay: {
 },
 
 Uday: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/uday.jpg",
   Role: "Documentation Head",
   Name: "Uday Patil",
   Email: "udaypatil088@gmail.com",
@@ -84,7 +84,7 @@ Uday: {
 },
 
 Smruti: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/smruti11.jpg",
   Role: "Cultural Head",
   Name: "Smruti Desai",
   Email: "smrutid1011@gmail.com",
@@ -92,7 +92,7 @@ Smruti: {
   },
 
 Esha: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/esha1.jpg",
   Role: "Co-Cultural Head",
   Name: "Esha Ambekar",
   Email: "eshaambekar7@gmail.com ",
@@ -100,7 +100,7 @@ Esha: {
   },
 
 Shivam: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Shivam1.jpg",
   Role: "Co-Cultural Head",
   Name: "Shivam Gupta",
   Email: "shivamgupta04108@gmail.com",
@@ -108,7 +108,7 @@ Shivam: {
   },
 
 Suraj: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/suraj1.jpg",
   Role: "Design Head",
   Name: "Suraj Gaikar",
   Email: "surajgaikar4694@gmail.com",
@@ -116,7 +116,7 @@ Suraj: {
   },
 
 Krushnal: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/krushnal1.jpg",
   Role: "Design Head",
   Name: "Krushnal Patil",
   Email: "patilkrushnalkishor@gmail.com", 
@@ -124,7 +124,7 @@ Krushnal: {
 },
 
 Pranil: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/pranil.jpg",
   Role: "Sports Head",
   Name: "Pranil Patil",
   Email: "patilpranil1018@gmail.com",  
@@ -132,7 +132,7 @@ Pranil: {
 },
 
 Sumit: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/sumit1.jpg",
   Role: "Sports Head",
   Name: "Sumit Lodh",
   Email: "lodh.sumit2805@gmail.com ",  
@@ -140,7 +140,7 @@ Sumit: {
 },
 
 Durgesh: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/durgesh1.jpg",
   Role: "Co-Sports Head",
   Name: "Durgesh Thorat",
   Email: "thoratdurgeshprakash@gmail.com",  
@@ -148,7 +148,7 @@ Durgesh: {
 },
 
 Viraj: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/viraj1.jpg",
   Role: "Social-Media Head",
   Name: "Viraj Salvi",
   Email: "virajsalvigc@gmail.com",
@@ -156,7 +156,7 @@ Viraj: {
 },
 
 Vedant: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Vedant1.jpg",
   Role: "Publicity Head",
   Name: "Vedant Mandavkar",
   Email: "vedantmandavkar3@gmail.com ",
@@ -167,7 +167,7 @@ Vedant: {
 
 const obj2 = {
 Sanika: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Sanika1.jpg",
   Role: "TECH-GITS Head",
   Name: "Sanika Dixit",
   Email: "it.a.33.sanika.dixit@gmail.com",
@@ -176,7 +176,7 @@ Sanika: {
 },
 
 Dhiraj: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Dhiraj1.jpg",
   Role: "TECH-GITS Member",
   Name: "Dhiraj Jambhale",
   Email: "dhirajjambhale025@gmail.com ",
@@ -185,7 +185,7 @@ Dhiraj: {
 },
 
 Omkar: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/omkar1.jpg",
   Role: "TECH-GITS Member",
   Name: "Omkar Bhapkar",
   Email: " ",
@@ -194,7 +194,7 @@ Omkar: {
 },
 
 Shrish: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/shrish.jpg",
   Role: "TECH-GITS Member",
   Name: "Shrish Kadam",
   Email: " shrishkadam18@gmail.com  ",
@@ -203,7 +203,7 @@ Shrish: {
 },
 
 Vedashri: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/vedashri.jpg",
   Role: "TECH-GITS Member",
   Name: "Vedashri Chorge",
   Email: "vedashrichorge0707@gmail.com ",
@@ -212,7 +212,7 @@ Vedashri: {
 },
 
 Pranav: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/pranav1.jpg",
   Role: "TECH-GITS Member",
   Name: "Pranav Bangar",
   Email: "pranavbangar2@gmail.com ",
@@ -221,7 +221,7 @@ Pranav: {
 },
 
 Pratik: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/pratik11.jpg",
   Role: "TECH-GITS Member",
   Name: "Pratik Sonawane",
   Email: " sonawanepratik962003@gmail.com",
@@ -230,7 +230,7 @@ Pratik: {
 },
 
 Rushikesh: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/Rushikesh1.jpg",
   Role: "TECH-GITS Member",
   Name: "Rushikesh Deshmukh",
   Email: "rushikeshd1907@gmail.com ",
@@ -239,7 +239,7 @@ Rushikesh: {
 },
 
 Manish: {
-  Image: "/assets/",
+  Image: "/assets/allmembers24/manish1.jpg",
   Role: "TECH-GITS Member",
   Name: "Manish Sonawane",
   Email: " ",
